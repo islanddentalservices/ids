@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>Island Dental Services</title>
+	<updated>2016-03-06T19:06:13+00:00</updated>
+
+	<subtitle>Island Dental Services is a private practice in East Cowes. Offering a wide range of treatments. Taking the time necessary to treat you as a whole person</subtitle>
+
+	
+		
+		<author>
+			
+				<name>calmcomputer</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/my-blog-post/</id>
+			<title>Repace this text with your title</title>
+			<link href="http://localhost:4000/my-blog-post/" rel="alternate" type="text/html" title="Repace this text with your title" />
+			<updated>2016-03-03T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>calmcodev</name>
+					
+					
+					
+				</author>
+			
+			<summary>Replace this text with your teaser...</summary>
+			<content type="html" xml:base="http://localhost:4000/my-blog-post/">
+</content>
+
+			
+			
+
+			<published>2016-03-03T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/warning-signs-impacted-wisdom-teeth/</id>
+			<title>Warning Signs of Impacted Wisdom Teeth</title>
+			<link href="http://localhost:4000/warning-signs-impacted-wisdom-teeth/" rel="alternate" type="text/html" title="Warning Signs of Impacted Wisdom Teeth" />
+			<updated>2016-02-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>calmcodev</name>
+					
+					
+					
+				</author>
+			
+			<summary>When your wisdom teeth start to emerge it can definitely be painful, but it can be even worse...</summary>
+			<content type="html" xml:base="http://localhost:4000/warning-signs-impacted-wisdom-teeth/">&lt;p&gt;&lt;img src=&quot;/images/blog-2016-01-04-wisdom-teeth.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When your wisdom teeth start to emerge it can definitely be painful, but it can be even worse if your wisdom teeth become impacted. Impacted wisdom teeth are trying to erupt but are unable to do so because there is not sufficient room for them to emerge. This usually means that your wisdom teeth are painfully lodged in your jawbone.&lt;/p&gt;
+
+&lt;p&gt;While you may not see any real signs of the emerging wisdom teeth when they are impacted, what you can’t see can still definitely hurt you. Some of the indicators of impacted wisdom teeth are listed below.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jaw Pain&lt;/strong&gt; Pain in the back of your jaw is a common indicator of impacted wisdom teeth. The pain often concentrates in the area around your gums.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Changes in the Mouth&lt;/strong&gt; You may notice some changes in your mouth when you have impacted wisdom teeth. Reddish gums, swelling in the jaw, bleeding gums, and bad breath can all be indicators that you are dealing with impacted wisdom teeth.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Headaches&lt;/strong&gt; If you suddenly start having headaches, especially at the same time as some of the other issues mentioned above, they may indicate impacted wisdom teeth.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chewing Issues&lt;/strong&gt; Problems with chewing normally can indicate impacted wisdom teeth. If you are having trouble making the chewing motions because your mouth won’t quite open and close as easily as it used to, impacted wisdom teeth may be the culprit.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-solution&quot;&gt;The Solution&lt;/h3&gt;
+
+&lt;p&gt;If you are suffering from impacted wisdom teeth, the best solution is usually going to be removal. This is not a problem that will resolve naturally, and in fact, your pain and other symptoms may worsen as your wisdom teeth become increasingly impacted. at Island Dental Services we can review the details of wisdom teeth removal surgery with you and help you determine if this is the best solution for your situation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; onclick=&quot;history.go(-1);return true;&quot;&gt;BACK&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+			
+
+			<published>2016-02-04T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/toothpaste-guide/</id>
+			<title>The Ultimate Toothpaste Guide</title>
+			<link href="http://localhost:4000/toothpaste-guide/" rel="alternate" type="text/html" title="The Ultimate Toothpaste Guide" />
+			<updated>2016-01-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>calmcodev</name>
+					
+					
+					
+				</author>
+			
+			<summary>There are so many different types of toothpaste available on the market. Which is the best one to buy?</summary>
+			<content type="html" xml:base="http://localhost:4000/toothpaste-guide/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/blog-2016-01-04-toothpaste-guide.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Have you ever heard the term, “You are what you eat?” Well, a similar philosophy applies to the type of toothpaste you choose. What you use to brush your teeth often reflects your dental needs. “Your teeth are what you brush them with” isn’t as catchy, but toothpaste probably deserves its own slogan, since it’s such an important part of your oral hygiene routine.&lt;/p&gt;
+
+&lt;p&gt;Toothpaste doesn’t just polish teeth; it also removes the bacteria that cause dental plaque and bad breath. As dental plaque bacteria meet with food, they create an acid that attacks teeth and eventually causes tooth decay. A build-up of dental plaque bacteria can cause several other dental problems including gum disease. These microorganisms also produce volatile sulfur molecules which are a source of bad breath.&lt;/p&gt;
+
+&lt;p&gt;Toothpaste’s ingredients help control mouth bacteria and fight dental problems. Most toothpastes contain detergents which create a foaming action to better remove food particles and dental plaque. Abrasives add a little extra cleaning power to help remove stains but may damage tooth enamel when used too vigorously. Breath fresheners are also commonly added to make your mouth feel clean, and added flavors keep your toothpaste from tasting bland. But the essential ingredient is fluoride, which helps prevent cavities and promote tooth health.&lt;/p&gt;
+
+&lt;h3 id=&quot;are-you-my-type&quot;&gt;Are You My Type?&lt;/h3&gt;
+
+&lt;p&gt;There are many types of toothpastes on the market. Each is designed to fit individual needs:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Whitening Toothpaste&lt;/strong&gt; Teeth whitening toothpastes don’t actually whiten teeth; they use scrubbing materials or chemicals to remove tooth stains.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tartar Control Toothpaste&lt;/strong&gt; Likewise, tartar control toothpastes don’t remove dental tartar but they do help prevent dental tartar from accumulating. Dental tartar can only be removed by a dentist, so it’s beneficial to start using tartar-control toothpaste after a dental checkup.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Desensitizing Toothpaste&lt;/strong&gt; Tooth sensitivity often results from weakened enamel or the exposure of roots due to receding gums. Desensitizing toothpastes work by creating a barrier and blocking irritants from reaching the nerves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fluoride Toothpaste&lt;/strong&gt; Fluoride is important to your dental health and can be added to any type of toothpaste. Not only does fluoride strengthen teeth against dental cavities but it remineralizes teeth worn by acid and fights sensitivity. Fluoride toothpaste is an excellent choice for those who need a little extra help protecting themselves from cavities - especially children and seniors. Fluoride toothpastes are also recommended for those without the benefit of community water fluoridation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gum Health Toothpaste&lt;/strong&gt; Dental plaque found under the gum line can lead to gum disease. Although gum health toothpastes are not a professional gum disease treatment, they can control dental plaque and help prevent the possibility of gum disease in the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Smokers’ Toothpaste&lt;/strong&gt; These pastes contain abrasive materials used to remove stains. Dentists do not usually recommend smokers’ toothpastes, as they can further damage your teeth and delicate gum tissue.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fresh Breath Toothpaste&lt;/strong&gt; Like many mouthwashes, fresh breath toothpastes are designed to mask bad breath but do not actually treat halitosis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Natural Toothpaste&lt;/strong&gt; For those who are uncomfortable brushing with chemicals, natural toothpastes may be an option. These contain all-natural ingredients but have varied results. Some natural toothpastes may not contain fluoride, so you should check the label before buying the product.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Children’s Toothpaste&lt;/strong&gt; These toothpastes have been developed to meet the special needs of children. As children are extremely susceptible to dental cavities, their toothpastes often contain fluoride. Younger children should only use a small amount of toothpaste to avoid ingestion and prevent dental fluorosis and should be always supervised during brushing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Baking Soda Toothpaste&lt;/strong&gt; Baking soda has traditional significance because it was once used to clean teeth. Although baking soda has no therapeutic value, some prefer it because they enjoy the fresh feeling they get after brushing with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gels&lt;/strong&gt; Some gels contain mouthwash which may be why some prefer the consistency or taste of a gel over a toothpaste. While gels may make your mouth feel fresher, there’s no proof that they clean teeth better than toothpastes. Also, many gels do not contain fluoride.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tooth Powders&lt;/strong&gt; Dry powders are also available to clean your teeth but they are often more abrasive than toothpaste.&lt;/p&gt;
+
+&lt;h3 id=&quot;haste-makes-waste&quot;&gt;Haste Makes Waste&lt;/h3&gt;
+
+&lt;p&gt;Equally as important as the type of toothpaste you use is the way you use it. Adults usually only need a pea-sized amount to get the therapeutic effects toothpaste has to offer. How you brush also affects your oral health. Tilt your toothbrush at a 45-degree angle towards the gums and gently brush for at least two minutes using short, circular strokes. You should brush your teeth at least twice a day with a soft toothbrush that won’t damage your gums.&lt;/p&gt;
+
+&lt;h3 id=&quot;you-complete-me&quot;&gt;You Complete Me&lt;/h3&gt;
+
+&lt;p&gt;With so many types and brands of toothpastes, how do you choose which one is right for you? Your best bet is to speak with your dentist, who after a thorough exam can help you determine your toothpaste needs. For example, you may want a whitening toothpaste but your teeth may not be cut out to handle its abrasive materials. If you’re cavity-prone, your dentist may recommend a fluoride toothpaste or any one of the toothpastes on the market to best accommodate your dental needs.&lt;/p&gt;
+
+&lt;p&gt;Although toothpaste is a significant contribution to your oral hygiene routine, it’s just one part of your oral health care regimen. Brushing must be combined with other aspects of dental care including flossing and a good diet. Regular dental visits are also needed to check for dental problems. Need a great dentist? We can help you find one today!&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; onclick=&quot;history.go(-1);return true;&quot;&gt;BACK&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+			
+
+			<published>2016-01-04T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/dentists-look-for/</id>
+			<title>Dental Checkup – What Does the Dentist Look For?</title>
+			<link href="http://localhost:4000/dentists-look-for/" rel="alternate" type="text/html" title="Dental Checkup – What Does the Dentist Look For?" />
+			<updated>2016-01-01T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>calmcodev</name>
+					
+					
+					
+				</author>
+			
+			<summary>A dental checkup or examination appointment is a very important opportunity for a dentist to identify any early signs of dental problems...</summary>
+			<content type="html" xml:base="http://localhost:4000/dentists-look-for/">&lt;p&gt;A dental checkup or examination appointment is a very important opportunity for a dentist to identify any early signs of dental problems, which usually takes less than 30 minutes for routine check ups and around 45 minutes to 1 hour for new patients. This is because most dental problems when found early can be treated quickly and inexpensively.&lt;/p&gt;
+
+&lt;p&gt;Dental decay is often difficult to see with the naked eye, so X rays are used to see beneath the surface of the tooth along with checking for bone loss due to gum disease. X rays in dentistry are very safe (expectant mothers will have X rays postponed until after birth) and usually have less radiation exposure than a short flight. You can also ask your dentist why the X ray is being taken as the need for an X ray is due to a clinical need. Most dentists have switched to digital X rays which means you can also see the images on a computer screen. The X ray may be a full image of an individual tooth, called a peri apical or a collection of the side view of the back teeth, called bite wings. Less frequently a full X rays of the jaw and teeth is taken, called an OPG or OPT. Considering that the radiation risk is so low, having regular X rays is an accurate way to spot dental problems.&lt;/p&gt;
+
+&lt;p&gt;Commonly dental decay between the teeth, underneath fillings or crowns is monitored.  The dentist also checks the bone quality and quantity around the tooth because when gum disease has been present for some months and left untreated it causes the bone that supports a tooth to start shrinking. This effect is irreversible and this advances can even lead to tooth loss. This is the number one reason people lose teeth in the UK.&lt;/p&gt;
+
+&lt;p&gt;With oral cancer rates significantly rising, a dentist or hygienist will carefully check all of the lining of your mouth and tongue to check for signs of oral cancer and if necessary refer you to a specialist for further investigation.&lt;/p&gt;
+
+&lt;p&gt;Teeth grinding is particularly common these days and linked to stress as a cause. The wear effects on the teeth are irreversible and the jaw can become permanently damaged if left untreated.&lt;/p&gt;
+
+&lt;p&gt;Even though a dental check up may appear a chore it can potentially save you thousands of pounds in more expensive treatments – and even save your life! There is more and more scientific evidence emerging about the link between oral health and your overall health. At the end of a check up, your dentist will inform you how long you should wait before the next checkup. This decision is based on your risk factors and can range from 3 months through to a year. Children need more regular visits than an adult generally.
+In summary, top 5 things a dentist checks for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dental decay&lt;/li&gt;
+  &lt;li&gt;Gum disease – leading cause of tooth loss in the UK&lt;/li&gt;
+  &lt;li&gt;Oral cancer – 15 new cases in every 100,000 males&lt;/li&gt;
+  &lt;li&gt;Teeth grinding&lt;/li&gt;
+  &lt;li&gt;Teeth crowding&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dental Hygienists and therapists are increasingly taking a role in check up appointments and will continue to do so over the coming years.&lt;/p&gt;
+
+&lt;p&gt;At the end of your check up appointment, if any further treatment is required, a written plan of treatment will be made. This outlines costs, number of visits and details of the treatment. If you agree to the treatment after understanding the risks and benefits, then you will be asked to sign the treatment plan before any active treatment begins. Should there be any changes required to the plan then a new treatment plan will be drawn up.&lt;/p&gt;
+
+&lt;p&gt;Some people feel that a dentist visit is only required when they experience a dental problem, however with more evidence of a link between dental disease with general disease, perhaps its time you make a dental appointment today?&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; onclick=&quot;history.go(-1);return true;&quot;&gt;BACK&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+			
+
+			<published>2016-01-01T00:00:00+00:00</published>
+		</entry>
+	
+</feed>
