@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Island Dental Services</title>
-	<updated>2016-03-06T19:50:43+00:00</updated>
+	<updated>2016-03-07T08:41:42+00:00</updated>
 
 	<subtitle>Island Dental Services is a private practice in East Cowes. Offering a wide range of treatments. Taking the time necessary to treat you as a whole person</subtitle>
 
@@ -26,32 +26,6 @@
 
 	
 		<entry>
-			<id>http://localhost:4000/my-blog-post/</id>
-			<title>Repace this text with your title</title>
-			<link href="http://localhost:4000/my-blog-post/" rel="alternate" type="text/html" title="Repace this text with your title" />
-			<updated>2016-03-03T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>calmcodev</name>
-					
-					
-					
-				</author>
-			
-			<summary>Replace this text with your teaser...</summary>
-			<content type="html" xml:base="http://localhost:4000/my-blog-post/">
-</content>
-
-			
-			
-
-			<published>2016-03-03T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
 			<id>http://localhost:4000/warning-signs-impacted-wisdom-teeth/</id>
 			<title>Warning Signs of Impacted Wisdom Teeth</title>
 			<link href="http://localhost:4000/warning-signs-impacted-wisdom-teeth/" rel="alternate" type="text/html" title="Warning Signs of Impacted Wisdom Teeth" />
@@ -61,7 +35,7 @@
 				
 				<author>
 					
-						<name>calmcodev</name>
+						<name>islanddentalservices</name>
 					
 					
 					
@@ -106,7 +80,7 @@
 				
 				<author>
 					
-						<name>calmcodev</name>
+						<name>islanddentalservices</name>
 					
 					
 					
@@ -179,7 +153,7 @@
 				
 				<author>
 					
-						<name>calmcodev</name>
+						<name>islanddentalservices</name>
 					
 					
 					
