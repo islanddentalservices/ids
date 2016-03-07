@@ -2,16 +2,11 @@
 layout: page
 show_meta: false
 sitemap: false
-
-header:
-   image_fullwidth: "ids-splash.jpg"
-
-title:  "Repace this text with your title"
-
-teaser: "Replace this text with your teaser..."
-
+header: 
+  image_fullwidth: "ids-splash.jpg"
+title: My Test Post
+teaser: My test teaser...
+published: true
 ---
-{% comment %}
-Replace this text with your post
 
-{% endcomment %}
+My tesxt
