@@ -7,5 +7,4 @@
 
 + After the examination your Dentist will advise youu about treatment and provide a written quote for the cost.
 
-+ If you want copies of your treatment plans, notes, X-rays or clinical photos, please ask. We'll provide them at a nominal charge.
-
++ If you want copies of your treatment plans, notes, X-rays or clinical photos, please ask. We'll provide them at a nominal charge. 
