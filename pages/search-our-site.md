@@ -8,10 +8,6 @@ header:
    image_fullwidth: "ids-splash.jpg"
 
 ---
-+ Note: this feature will not work correctly until the site has been opened up to google indexing.
-
-{% include _google_search.html %}  
-<br/>  
 
 ## Topics A-Z  
 <br/>  
