@@ -1,6 +1,7 @@
 ### Dr Keith Tierney  
 
-**Practice Principal**  
+**Practice Principal**   
+G.D.C. 58283
 
 <img src="{{ site.url }}/images/keith-tierney.jpg">  
 
@@ -19,7 +20,8 @@ When not working I like to Swim and Kayak. I have travelled extensively througho
 
 ### Kathryn Birnie  
 
-**Hygienist**  G.D.C 2093
+**Hygienist**   
+G.D.C 2093
 
 <img src="{{ site.url }}/images/kathryn-birnie.jpg">  
 
@@ -35,7 +37,8 @@ I joined the wonderful team at Island Dental Services in 2013.  I am looking for
  
 ### Heidi Baxter  
 
-**Dental Nurse** 
+**Dental Nurse**  
+G.D.C 113932
 
 <img src="{{ site.url }}/images/heidi-baxter.jpg">  
 
@@ -44,6 +47,37 @@ Heidi left Cowes High School in 1995 she had a interest in dentistry after havin
 Kate decided to semi retire in the spring of 2013 and closed her Freshwater Practice and joined Island Dental Services. Heidi was also offered a position at the practice, still working with Kate two days a week and working with Dr Keith Tierney the rest of the time. As of January 2016 Heidi became Keith’s full time nurse as Kate finally retired.  
 
 Out side of work Heidi enjoys socialising with friends and family, she also enjoys riding and looking after her horse and generally loves spending time outdoors. 
+
+
+### Karen Cassford  
+
+**Therapist**
+
+I have been in the dental industry since the age of 17, where I started my dental life as an orthodontic nurse in my home town of Horsham West Sussex, and I stayed in that position for 4 years until I decided it was time to expand my knowledge and move areas. 
+
+I moved to the Isle of Wight at the end of 1995 and started working as a trainee dental nurse. In 1997 I gained my NEBDN dental nursing qualification and shortly after this took position as a dental nurse with Keith Tierney at his Ryde Surgery, working with the associate dentists.
+
+Between 1999 and 2004 I gained higher education certificates in dental nursing, oral health education and radiography. During this time I worked at the Ryde and East Cowes surgeries and also worked at Bembridge.
+In 2004 I was privileged to be one of the first cohorts of students to train as a dual qualified hygienist/therapist at the School of Professionals Complementary to Dentistry in Portsmouth, from which, I graduated in June 2007 with a First Class Honours degree. 
+
+In July 2007, I returned to work in my new position of Dental Therapist/Hygienist both at East Cowes and Bembridge and also worked some hours at another surgery in Ryde.  
+In 2012 I went to work within the NHS and community expanding my skills and knowledge treating lots of children and dental phobics.
+
+Outside of Work I have a very busy life with two young children Sophia-Chantelle who is 5 and Ethan who is 4. We have two rescue Lucher dogs, and we love the outdoors, walking and hiking our way around the Island or Devon.  My husband works as a machine operative and HGV driver. He also is an adult instructor in the Army Cadet Force.
+
+In the past I have travelled extensively through India and Australia and various other destinations and have had some amazing adventures.
+
+### Angela Amies
+
+**Reception Manager**
+
+<img src="{{ site.url }}/images/angela-amies.jpg">  
+
+Angela started working at Island Dental Services in January 2000. Prior to that she worked at pharmacies in Ryde and East Cowes.
+
+Along side these jobs she also worked for The British Nursing Bank taking on shifts at St. Marys Hospital and various Nursing Homes around the Island covering minor first aid through to end of life care. She holds an in date First aid certificate.
+
+Out of the surgery she enjoys walking, swimming, aqua fit and having fun with her family especially the Grandchildren.
 
 
 ### Valerie Le Goff
