@@ -1,21 +1,16 @@
-- menu_name: "Dankeschön"
+- menu_name: "Credits"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
-
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
+- name: "Software"
+  url: "/info/"
   class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "Software"
+  
+- name: "Licence"
+  url: "/info/"
+  class: "services-newsletter"
+  title: "Licence"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
+- name: "Images"
+  url: "/info/"
   class: "rss-link"
-  title: "Images by Unsplash"
-
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Theme by Plow"
