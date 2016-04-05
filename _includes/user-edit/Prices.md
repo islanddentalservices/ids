@@ -20,4 +20,3 @@
 |  Premolar or Double Rooted Teeth           |  £250                |
 |  Molar, Three or Four Pulp Canals          |  £300                |
 |  Instrument fee                            |  £50                 |
- 
