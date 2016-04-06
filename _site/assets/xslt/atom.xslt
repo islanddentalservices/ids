@@ -25,7 +25,7 @@
     <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
   </noscript>
 
-  <meta name="google-site-verification" content="jJyMAzGTvcbxHZZ51QKzp0J8zGQl0NV5cdgfu6VEDRU" />
+  <meta name="google-site-verification" content="EJHMahFdNVjinRdDKUaTNWPhVnOHgLssGfhwBF8DX4E" />
 	
 	<meta name="description" content="Island Dental Services is a private practice in East Cowes. Offering a wide range of treatments. Taking the time necessary to treat you as a whole person" />
 
