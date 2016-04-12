@@ -4,7 +4,7 @@
 | 6 Monthly Examination | £ 30 |
 | Yearly Examination | £ 30 |
 | Annual Examination | £30 |
-| Emergency Examination/ Consultation | £12 per hour |
+| Emergency Examination/ Consultation | £120 per hour |
 
 ### X-Rays
 
