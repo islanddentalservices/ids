@@ -29,7 +29,7 @@ header:
 {% include user-edit/Services-Teaser-Crowns.md %}
 <a class="radius button small" href="{{ site.url }}/crowns/">MORE</a>  
 
-### Root canals
+### Root Canal Treatments
 {% include user-edit/Services-Teaser-Root-Canals.md %}
 <a class="radius button small" href="{{ site.url }}/root-canal/">MORE</a>  
 
@@ -37,11 +37,11 @@ header:
 {% include user-edit/Services-Teaser-Dentures.md %}
 <a class="radius button small" href="{{ site.url }}/dentures/">MORE</a>  
 
-### Lost teeth
+### Lost Teeth
 {% include user-edit/Services-Teaser-Lost-Teeth.md %}
 <a class="radius button small" href="{{ site.url }}/lost-teeth/">MORE</a>  
 
-### Bruxism
+### Tooth Grinding
 {% include user-edit/Services-Teaser-Bruxism.md %}
 <a class="radius button small" href="{{ site.url }}/bruxism/">MORE</a>  
 
@@ -49,7 +49,11 @@ header:
 {% include user-edit/Services-Teaser-Extractions.md %}
 <a class="radius button small" href="{{ site.url }}/extractions/">MORE</a>  
 
-### Loose teeth
+### Orthodontics/Tooth Straightening
+{% include user-edit/Services-Teaser-Orthodontics.md %}
+<a class="radius button small" href="{{ site.url }}/orthodontics/">MORE</a>  
+
+### Loose Teeth/Gum Disease
 {% include user-edit/Services-Teaser-Loose-Teeth.md %}
 <a class="radius button small" href="{{ site.url }}/loose-teeth/">MORE</a>  
 
@@ -57,7 +61,7 @@ header:
 {% include user-edit/Services-Teaser-Snoring-Sleep-Apnoea.md %}
 <a class="radius button small" href="{{ site.url }}/snoring-sleep-apnoea/">MORE</a>  
 
-### Nervous patient programs
+### Nervous Patient Programs
 {% include user-edit/Services-Teaser-Nervous-Patient-Programs.md %}
 <a class="radius button small" href="{{ site.url }}/nervous-patient-programs/">MORE</a>  
 <br/>   

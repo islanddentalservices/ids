@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bruxism
+title: Tooth Grinding
 show_meta: false
 permalink: "/bruxism/"
 header: 

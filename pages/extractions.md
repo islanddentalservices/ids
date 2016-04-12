@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Extractions"
+title: "Extractions/ Oral Surgery"
 show_meta: false
 permalink: "/extractions/"
 
