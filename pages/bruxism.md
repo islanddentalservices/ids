@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tooth Grinding
+title: Tooth Grinding/ Jaw Clenching
 show_meta: false
 permalink: "/bruxism/"
 header: 
