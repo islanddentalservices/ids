@@ -41,7 +41,7 @@ header:
 {% include user-edit/Services-Teaser-Lost-Teeth.md %}
 <a class="radius button small" href="{{ site.url }}/lost-teeth/">MORE</a>  
 
-### Tooth Grinding
+### Tooth Grinding/ Jaw Clenching
 {% include user-edit/Services-Teaser-Bruxism.md %}
 <a class="radius button small" href="{{ site.url }}/bruxism/">MORE</a>  
 
