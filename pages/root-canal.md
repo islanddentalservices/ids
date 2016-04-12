@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Root canal
+title: Root Canal Treatments
 show_meta: false
 permalink: "/root-canal/"
 header: 
