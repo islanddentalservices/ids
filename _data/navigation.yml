@@ -12,8 +12,11 @@
     url: "/team/"
     
 - title: "Contact"
-  url: "/contact/"
   side: left
+  dropdown:
+  - title: "Contact Details"
+    url: "/contact/"
+
 
 - title: "Emergency"
   url: "/emergency-treatment/"

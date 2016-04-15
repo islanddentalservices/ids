@@ -62,10 +62,8 @@ header:
 <a class="radius button small" href="{{ site.url }}/snoring-sleep-apnoea/">MORE</a>  
 
 ### Nervous Patient Programs
-{% include user-edit/Services-Teaser-Nervous-Patient-Programs.md %}
+{% include user-edit/Services-Teaser-Nervous-Patient-Programs.md %}  
 <a class="radius button small" href="{{ site.url }}/nervous-patient-programs/">MORE</a>  
-<br/>   
-
-{% include back-top-buttons %}
+<br/>  {% include back-top-buttons %}
 	
 

@@ -53,6 +53,8 @@ Out side of work Heidi enjoys socialising with friends and family, she also enjo
 
 **Therapist**
 
+<img src="{{ site.url }}/images/karen-cassford.jpg">  
+
 I have been in the dental industry since the age of 17, where I started my dental life as an orthodontic nurse in my home town of Horsham West Sussex, and I stayed in that position for 4 years until I decided it was time to expand my knowledge and move areas. 
 
 I moved to the Isle of Wight at the end of 1995 and started working as a trainee dental nurse. In 1997 I gained my NEBDN dental nursing qualification and shortly after this took position as a dental nurse with Keith Tierney at his Ryde Surgery, working with the associate dentists.

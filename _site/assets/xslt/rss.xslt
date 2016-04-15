@@ -245,10 +245,21 @@
 
             
             
-              <li><a href="http://localhost:4000/contact/">Contact</a></li>
-              <li class="divider"></li>
 
-            
+              <li class="has-dropdown">
+                <a href="http://localhost:4000">Contact</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/contact/">Contact Details</a></li>
+                    
+                  </ul>
+                  
+              </li>
+              <li class="divider"></li>
             
           
         
