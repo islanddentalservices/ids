@@ -2,8 +2,6 @@
 
 | New Patient/ Extensive Clinical Examination | £45 |
 | 6 Monthly Examination | £ 30 |
-| Yearly Examination | £ 30 |
-| Annual Examination | £30 |
 | Emergency Examination/ Consultation | £120 per hour |
 
 ### X-Rays
@@ -16,6 +14,11 @@
 | Scale and polish 20 minutes | £40 |
 | Extensive scale and polish 30 minutes | £60 |
 | Deep cleaning under local anaesthetic | £120 per hour |
+
+### Gum Disease Treatment
+
+| By the Dentist | £180 per hour |
+| Bone regeneration therapy | from £700 |
 
 ### Fillings
 
@@ -49,9 +52,7 @@
 | Full/ full acryllic denture | from £850 |
 | Full upper or lower acrylic | from £600 |
 | Addition of chrome insert to acrylic denture |  £120 |
-| Partial upper or lower metal-based denture | from £850 |
-| Upper chrome denture | £1100 |
-| Lower chrome denture | £1100 |
+| Chrome denture | £850 to £1100 |
 | Addition of tooth to denture | £100 |
 | Addition of clasp to denture | £80 |
 | Repair crack/fracture | £60 |
@@ -62,3 +63,4 @@
 
 | Routine extraction | £60 to 150 |
 | Surgical extraction | £120 to 300 |
+| Wisdom tooth | up to £300 |

@@ -16,7 +16,8 @@
   dropdown:
   - title: "Contact Details"
     url: "/contact/"
-
+  - title: "Feedback"
+    url: "/feedback-form/"
 
 - title: "Emergency"
   url: "/emergency-treatment/"

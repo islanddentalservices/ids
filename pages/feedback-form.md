@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Feedback Form"
 show_meta: false
 permalink: "/feedback-form/"
 
@@ -10,4 +9,6 @@ header:
 ---
 
 <iframe height="804" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://islanddentalservices.wufoo.com/embed/q1w693z31rwtagp/"><a href="https://islanddentalservices.wufoo.com/forms/q1w693z31rwtagp/">Fill out my Wufoo form!</a></iframe>
+
+{% include back-button %}
 
