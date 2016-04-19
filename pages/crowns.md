@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Crowns"
+title: "Bridges and Crowns"
 show_meta: false
 permalink: "/crowns/"
 

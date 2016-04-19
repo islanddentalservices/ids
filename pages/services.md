@@ -25,7 +25,7 @@ header:
 {% include user-edit/Services-Teaser-Fillings.md %}
 <a class="radius button small" href="{{ site.url }}/fillings/">MORE</a>  
 
-### Crowns
+### Bridges and Crowns
 {% include user-edit/Services-Teaser-Crowns.md %}
 <a class="radius button small" href="{{ site.url }}/crowns/">MORE</a>  
 
@@ -33,7 +33,7 @@ header:
 {% include user-edit/Services-Teaser-Root-Canals.md %}
 <a class="radius button small" href="{{ site.url }}/root-canal/">MORE</a>  
 
-### Full Dentures
+### Dentures
 {% include user-edit/Services-Teaser-Dentures.md %}
 <a class="radius button small" href="{{ site.url }}/dentures/">MORE</a>  
 
