@@ -1,1 +1,1 @@
-Many types to save heavily filled teeth. 
+Many types to save heavily filled teeth.

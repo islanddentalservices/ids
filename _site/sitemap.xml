@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>https://islanddentalservices.github.io/ids/404.html</loc>
 	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/archive/</loc>
+	<loc>https://islanddentalservices.github.io/ids/blog/archive/</loc>
 	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,478 +37,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/bruxism/</loc>
+	<loc>https://islanddentalservices.github.io/ids/atom.xml</loc>
 	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/contact-form/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/contact/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/cosmetic/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/crowns/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/dentures/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/emergency-treatment/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/extractions/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feedback-form/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fillings/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/hygienist/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/info/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/loose-teeth/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/lost-teeth/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/nervous-patient-programs/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/orthodontics/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/page-under-construction/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/payment-plans/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/practice/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/prices/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/review-us/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/root-canal/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/search-our-site/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/services/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/small-print/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/snoring-sleep-apnoea/</loc>
-	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -540,9 +54,495 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/team/</loc>
+	<loc>https://islanddentalservices.github.io/ids/bruxism/</loc>
 	
-		<lastmod>2016-04-19T07:45:59+01:00</lastmod>
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/contact-form/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/contact/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/cosmetic/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/crowns/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/dentures/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/emergency-treatment/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/extractions/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/feed.xml</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/feedback-form/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/fillings/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/humans.txt</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/hygienist/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/blog/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/info/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/loose-teeth/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/lost-teeth/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/nervous-patient-programs/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/orthodontics/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/page-under-construction/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/payment-plans/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/practice/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/prices/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/review-us/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/robots.txt</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/root-canal/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/search-our-site/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/services/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/sitemap.xml</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/small-print/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/snoring-sleep-apnoea/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/team/</loc>
+	
+		<lastmod>2016-06-12T08:50:25+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -554,7 +554,37 @@
 	
 
 
-<!-- Posts: 0 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 2 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/2016-04-30-warning-signs-of-bruxism/</loc>
+	
+		<lastmod>2016-04-30T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://islanddentalservices.github.io/ids/2016-04-30-bruxism/</loc>
+	
+		<lastmod>2016-04-30T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 
 </urlset>

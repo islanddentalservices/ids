@@ -1,5 +1,5 @@
 ---
-layout: page-team
+layout: page
 title: "Our Team"
 show_meta: false
 permalink: "/team/"

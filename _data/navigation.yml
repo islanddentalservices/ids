@@ -1,42 +1,37 @@
-  
-- title: "Home"
-  url: "/"
-  side: left
-  
 - title: "About"
   side: left
   dropdown:
   - title: "Our Practice"
-    url: "/practice/"
+    url: "/practice1/"
   - title: "Our Team"
-    url: "/team/"
+    url: "/team1/"
     
 - title: "Contact"
   side: left
   dropdown:
   - title: "Contact Details"
-    url: "/contact/"
+    url: "/contact1/"
   - title: "Feedback"
-    url: "/feedback-form/"
+    url: "/feedback-form1/"
 
 - title: "Emergency"
-  url: "/emergency-treatment/"
+  url: "/1emergency-treatment1/"
   side: left
   
 - title: "Services"
   side: left
   dropdown:
   - title: "All Services"
-    url: "/services/"
+    url: "/services1/"
   - title: "Prices"
-    url: "/prices/"
+    url: "/prices1/"
 
 - title: "Blog"
   url: "/blog/"
   side: left
 
 - title: "Search"
-  url: "/search-our-site/"
+  url: "/1search-our-site1/"
   side: left
 
 
