@@ -46,5 +46,7 @@ Variations of periodontitis that can occur:
 + Juvenile pattern- occurs in teenagers.
 + AUG- Acute Ulcerative Gingivitis - the only painful variation with a specific cause and pattern.
 
+We'll be talking more about periodontitis in future blog posts.
+
   {% include back-button %}
 
