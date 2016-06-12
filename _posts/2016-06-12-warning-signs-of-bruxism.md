@@ -8,7 +8,7 @@ header:
 
 title:  "What is Periodontitis"
 
-teaser: "Periodontitis is the name dentists give to Gum Disease. It's the World's most common disease." 
+teaser: "Periodontitis is the name dentists give to Gum Disease. It's the World's most common disease and it is usually painless." 
 
 permalink: "/blog-what-is-periodontitis/"
 
