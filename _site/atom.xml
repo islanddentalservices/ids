@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://islanddentalservices.github.io/ids/</id>
+	<id>http://localhost:4000/</id>
 	<title>Island Dental Services</title>
-	<updated>2016-06-12T08:50:25+01:00</updated>
+	<updated>2016-06-12T09:12:18+01:00</updated>
 
 	<subtitle>Island Dental Services is a private practice in East Cowes. Offering a wide range of treatments. Taking the time necessary to treat you as a whole person</subtitle>
 
@@ -19,17 +19,17 @@
 		</author>
 	
 
-	<link href="https://islanddentalservices.github.io/ids/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="https://islanddentalservices.github.io/ids/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 
 	
 		<entry>
-			<id>https://islanddentalservices.github.io/ids/2016-04-30-warning-signs-of-bruxism/</id>
-			<title>5 Warning signs of bruxism</title>
-			<link href="https://islanddentalservices.github.io/ids/2016-04-30-warning-signs-of-bruxism/" rel="alternate" type="text/html" title="5 Warning signs of bruxism" />
-			<updated>2016-04-30T00:00:00+01:00</updated>
+			<id>http://localhost:4000/blog-what-is-periodontitis/</id>
+			<title>What is Periodontitis</title>
+			<link href="http://localhost:4000/blog-what-is-periodontitis/" rel="alternate" type="text/html" title="What is Periodontitis" />
+			<updated>2016-06-12T00:00:00+01:00</updated>
 
 			
 				
@@ -41,117 +41,50 @@
 					
 				</author>
 			
-			<summary>Tooth grinding or jaw clenching often goes unnoticed and may lead to serious dental problems ...</summary>
-			<content type="html" xml:base="https://islanddentalservices.github.io/ids/2016-04-30-warning-signs-of-bruxism/">&lt;p&gt;&lt;img src=&quot;https://islanddentalservices.github.io/ids/images//2016-04-30-warning-signs-of-bruxism.jpg &quot; /&gt;&lt;br /&gt;[image: 
-Wikimedia]&lt;br /&gt;&lt;/p&gt;
+			<summary>Periodontitis is the name dentists give to Gum Disease. It&#39;s the World&#39;s most common disease.</summary>
+			<content type="html" xml:base="http://localhost:4000/blog-what-is-periodontitis/">&lt;p&gt;It is a group of conditions caused by bacteria on the teeth and gum line resulting in an infection. In the course of fighting this, the body produces substances which damage the jaw bone and the ligament around the teeth.&lt;/p&gt;
 
-&lt;p&gt;Do you recognize any of these signs? If so, you could be suffering from Bruxism.&lt;/p&gt;
+&lt;p&gt;Periodontitis can be seen as an autoimmune process combined with an infection and if viewed as a single disease, is in fact the worlds most common one!&lt;/p&gt;
+
+&lt;p&gt;If the infection continues, pockets form between the teeth and gums, reducing bone support. Bacteria (plaque) then fill up the widening gum gap. Untreated, the teeth loosen and eventually fall out or have to be extracted.&lt;/p&gt;
+
+&lt;p&gt;Periodontitis is not usually painful and is therefore easily ignored or undetected. This sadly means that many leave it too late to treat easily.&lt;/p&gt;
+
+&lt;p&gt;Older adults are more likely to suffer from it, though it can start in the teens.&lt;/p&gt;
+
+&lt;p&gt;The principal aggravating factors are diabetes and smoking - lesser factors include- dry mouth and aggravated occlusion. Occlusion is how the teeth meet together. If teeth loosen they can drift out of their normal bite and be bitten on too heavily, aggravating the stress they are under, thus causing them to further loosen.&lt;/p&gt;
+
+&lt;p&gt;Symptoms of periodontitis:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;A dull headache when you wake in the morning&lt;/strong&gt;. Bruxism makes you three times more likely to suffer from headaches.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;The sound of tooth-grinding at night&lt;/strong&gt;, perhaps disturbing the sleep of your partner or someone else sleeping nearby.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tooth wear, sensitivity or damage to your dental fittings&lt;/strong&gt;. Grinding and clenching can damage your teeth, causing pain by exposing the sensitive pulp inside.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jaw pains&lt;/strong&gt; or difficulty in opening your mouth.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Persistent pain in your face&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Reddened, swollen or bleeding gums&lt;/li&gt;
+  &lt;li&gt;Receding gums&lt;/li&gt;
+  &lt;li&gt;Loose Teeth&lt;/li&gt;
+  &lt;li&gt;Bad breath&lt;/li&gt;
+  &lt;li&gt;An unpleasant taste in the mouth&lt;/li&gt;
+  &lt;li&gt;Movement/ drifting of teeth&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Bruxism (pronounced brooks-ism) is the dental term for tooth-grinding or clenching. Most of us occasionally do it but for around 10% of people, it develops into a habit that may lead to damaged teeth or jaws.&lt;/p&gt;
+&lt;p&gt;Variations of periodontitis that can occur:&lt;/p&gt;
 
-&lt;p&gt;Bruxism is often a reaction to stress but it can also have purely physical causes.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gingivitis- highly inflamed (red) gums without bone loss.&lt;/li&gt;
+  &lt;li&gt;Simple- bone loss is even ( “horizontal “)&lt;/li&gt;
+  &lt;li&gt;Complex- complex bone loss patterns ( Horizontal and vertical combined)&lt;/li&gt;
+  &lt;li&gt;Juvenile pattern- occurs in teenagers&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;AUG- Acute Ulcerative Gingivitis-  the only painful variation with a specific cause and pattern.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot; https://islanddentalservices.github.io/ids/images//2016-04-30-bruxism/&quot;&gt;LEARN MORE&lt;/a&gt;
-  &lt;a class=&quot;radius button small&quot; onclick=&quot;history.go(-1);return true;&quot;&gt;BACK&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;radius button small&quot; onclick=&quot;history.go(-1);return true;&quot;&gt;BACK&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 </content>
 
 			
 			
 
-			<published>2016-04-30T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://islanddentalservices.github.io/ids/2016-04-30-bruxism/</id>
-			<title>What is Bruxism?</title>
-			<link href="https://islanddentalservices.github.io/ids/2016-04-30-bruxism/" rel="alternate" type="text/html" title="What is Bruxism?" />
-			<updated>2016-04-30T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>islanddentalservices</name>
-					
-					
-					
-				</author>
-			
-			<summary>Teeth-grinding and jaw-clenching is a habit which may lead to serious dental problems ...</summary>
-			<content type="html" xml:base="https://islanddentalservices.github.io/ids/2016-04-30-bruxism/">&lt;p&gt;Bruxism is the dental term for tooth-grinding or jaw-clenching. Most of us do it occasionally but for some it develops into a habit that can lead to damage.&lt;/p&gt;
-
-&lt;p&gt;There are a number of factors that play a part in causing bruxism and they are not fully understood. Stress is one of them but there are also purely physical causes.&lt;/p&gt;
-
-&lt;p&gt;Broadly, there are two kinds of bruxism. In sleep bruxism, sufferers get waves of jaw-muscle contraction which cause their teeth to grind. In awake bruxism the damage is caused by the pressure of jaw-clenching rather than by tooth-grinding.&lt;/p&gt;
-
-&lt;p&gt;Estimates of how common bruxism is vary from 8% to 30% of the population. It often goes unnoticed until a dental problem arises that needs treatment. It may happen in episodes, perhaps during periods of stress. Mild cases may cause no damage at all but when bruxism is more severe or frequent, the risk of damage is much higher.&lt;/p&gt;
-
-&lt;p&gt;The effects on teeth can include &lt;strong&gt;wear and flattening&lt;/strong&gt;, &lt;strong&gt;sensitivity&lt;/strong&gt; (eg to cold drinks) because wearing down the enamel has exposed the sensitive pulp or tooth &lt;strong&gt;fractures&lt;/strong&gt;. The periodontium (tissue that supports the teeth) can be affected, &lt;strong&gt;loosening the teeth&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Bruxism can put stress on the jaw joint, causing tenderness, pain, clicking or inability to fully open the mouth. The surrounding muscles may also become tired or painful.&lt;/p&gt;
-
-&lt;p&gt;There isn’t a single cure for bruxism. If you think that you might be affected by it, consult your dentist, who will be able to advise you about options for reducing the symptoms and the risk of long-term damage.&lt;/p&gt;
-
-&lt;p&gt;[TODO: summary of treatments here that tie in with IDS]&lt;/p&gt;
-
-&lt;p&gt;Here are some signs that could indicate that you are experiencing bruxism.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;A dull headache when you wake in the morning&lt;/strong&gt;. Bruxism makes you three times more likely to suffer from headaches.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;The sound of tooth-grinding at night&lt;/strong&gt;, perhaps disturbing the sleep of your partner or someone else sleeping nearby.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tooth wear, sensitivity or damage to your dental fittings&lt;/strong&gt;. Grinding and clenching can damage your teeth, causing pain by exposing the sensitive pulp inside.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jaw joint or jaw muscle pains&lt;/strong&gt; that may make opening your mouth uncomfortable or painful.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Persistent face pain&lt;/strong&gt;..&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;
-What is Bruxism?&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/vkZWYhitUuA?showinfo=0&amp;amp;iv_load_policy=3&amp;amp;controls=1&amp;amp;modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h4&gt;
-Bruxism and TMJ&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/Cj3GVRlrgEQ?showinfo=0&amp;amp;iv_load_policy=3&amp;amp;controls=1&amp;amp;modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;a class=&quot;radius button small&quot; onclick=&quot;history.go(-1);return true;&quot;&gt;BACK&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-			
-
-			<published>2016-04-30T00:00:00+01:00</published>
+			<published>2016-06-12T00:00:00+01:00</published>
 		</entry>
 	
 </feed>
