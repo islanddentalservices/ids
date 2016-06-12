@@ -31,20 +31,20 @@ The principal aggravating factors are diabetes and smoking - lesser factors incl
 
 Symptoms of periodontitis:
 
-+ Reddened, swollen or bleeding gums
-+ Receding gums
-+ Loose Teeth
-+ Bad breath
-+ An unpleasant taste in the mouth
-+ Movement/ drifting of teeth
++ Reddened, swollen or bleeding gums.
++ Receding gums.
++ Loose Teeth.
++ Bad breath.
++ An unpleasant taste in the mouth.
++ Movement/ drifting of teeth.
 
 Variations of periodontitis that can occur:
 
 + Gingivitis- highly inflamed (red) gums without bone loss.
-+ Simple- bone loss is even ( "horizontal ")
-+ Complex- complex bone loss patterns ( Horizontal and vertical combined)
-+ Juvenile pattern- occurs in teenagers
-+ AUG- Acute Ulcerative Gingivitis-  the only painful variation with a specific cause and pattern.
++ Simple- bone loss is even (Horizontal).
++ Complex- complex bone loss patterns (Horizontal and vertical combined).
++ Juvenile pattern- occurs in teenagers.
++ AUG- Acute Ulcerative Gingivitis - the only painful variation with a specific cause and pattern.
 
   {% include back-button %}
 
