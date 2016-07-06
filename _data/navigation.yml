@@ -2,36 +2,36 @@
   side: left
   dropdown:
   - title: "Our Practice"
-    url: "/practice1/"
+    url: "/practice/"
   - title: "Our Team"
-    url: "/team1/"
+    url: "/team/"
     
 - title: "Contact"
   side: left
   dropdown:
   - title: "Contact Details"
-    url: "/contact1/"
+    url: "/contact/"
   - title: "Feedback"
-    url: "/feedback-form1/"
+    url: "/feedback-form/"
 
 - title: "Emergency"
-  url: "/1emergency-treatment1/"
+  url: "/emergency-treatment/"
   side: left
   
 - title: "Services"
   side: left
   dropdown:
   - title: "All Services"
-    url: "/services1/"
+    url: "/services/"
   - title: "Prices"
-    url: "/prices1/"
+    url: "/prices/"
 
 - title: "Blog"
   url: "/blog/"
   side: left
 
 - title: "Search"
-  url: "/1search-our-site1/"
+  url: "/search-our-site/"
   side: left
 
 
