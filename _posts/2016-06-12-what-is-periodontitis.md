@@ -15,6 +15,7 @@ published: true
 ---
 
 
+
 ### It is a group of conditions caused by bacteria on the teeth and gum line resulting in an infection. In the course of fighting this, the body produces substances which damage the jaw bone and the ligament around the teeth.
 
 Periodontitis can be seen as an autoimmune process combined with an infection and if viewed as a single disease, is in fact the worlds most common one!
