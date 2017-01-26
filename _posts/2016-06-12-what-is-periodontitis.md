@@ -2,22 +2,20 @@
 layout: page
 show_meta: false
 sitemap: false
-
 header:
-   image_fullwidth: "ids-splash.jpg"
-
-title:  "What is Periodontitis"
-
-teaser: "Periodontitis is the name dentists give to Gum Disease. It's the World's most common disease and it is usually painless." 
-
-permalink: "/blog-what-is-periodontitis/"
-
+  image_fullwidth: ids-splash.jpg
+title: What is Periodontitis
+teaser: >-
+  Periodontitis is the name dentists give to Gum Disease. It's the World's most
+  common disease and it is usually painless.
+permalink: /blog-what-is-periodontitis/
 image:
-    thumb: 2016-04-30-warning-signs-of-bruxism.thumb.jpg
+  thumb: 2016-04-30-warning-signs-of-bruxism.thumb.jpg
+published: true
 ---
 
 
-It is a group of conditions caused by bacteria on the teeth and gum line resulting in an infection. In the course of fighting this, the body produces substances which damage the jaw bone and the ligament around the teeth.
+### It is a group of conditions caused by bacteria on the teeth and gum line resulting in an infection. In the course of fighting this, the body produces substances which damage the jaw bone and the ligament around the teeth.
 
 Periodontitis can be seen as an autoimmune process combined with an infection and if viewed as a single disease, is in fact the worlds most common one!
 
@@ -49,4 +47,3 @@ Variations of periodontitis that can occur:
 We'll be talking more about periodontitis in future blog posts.
 
   {% include back-button %}
-
