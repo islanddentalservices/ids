@@ -42,25 +42,25 @@
 | Bridges | £400 per unit |
 | Maryland bridges | £250 per unit |
 | Re-cement crown or inlay | from £75 |
-| Gold crown | from £400 |
+| Gold crown | from £500 |
 | Gold inlay | from £400 |
 | Post/core for crowns | from £150 |
 | Basic core | £90 |
 
 ### Dentures
 
-| Full/ full acryllic denture | from £850 |
+| Full/ full acryllic denture | from £1000 |
 | Full upper or lower acrylic | from £600 |
 | Addition of chrome insert to acrylic denture |  £120 |
-| Chrome denture | £850 to £1100 |
-| Addition of tooth to denture | £100 |
-| Addition of clasp to denture | £80 |
-| Repair crack/fracture | £60 |
+| Chrome upper or lower denture | £1100 |
+| Addition of tooth to denture | £150 |
+| Addition of clasp to denture | £100 |
+| Repair crack/fracture | £100 |
 
 ### Extractions, Oral Surgery
 
 + Please be aware that fees may increase should an apparently routine extraction culminate in a surgical removal
 
-| Routine extraction | £60 to 150 |
-| Surgical extraction | £120 to 300 |
+| Routine extraction | £80 to 160 |
+| Surgical extraction | £150 to 300 |
 | Wisdom tooth | up to £300 |
