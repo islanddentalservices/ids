@@ -37,10 +37,10 @@
 
 ### Crowns, Veneers, Inlays, Bridges
 
-| Tooth-coloured crown | from £400 |
-| Porcelain veneer | from £400 |
-| Bridges | £400 per unit |
-| Maryland bridges | £250 per unit |
+| Tooth-coloured crown | from £450 |
+| Porcelain veneer | from £600 |
+| Bridges | £450 per unit |
+| Maryland bridges | £300 per unit |
 | Re-cement crown or inlay | from £75 |
 | Gold crown | from £500 |
 | Gold inlay | from £400 |
