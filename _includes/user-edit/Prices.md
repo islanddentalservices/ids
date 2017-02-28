@@ -22,7 +22,7 @@
 
 ### Fillings
 
-| Composite fillings | £75 - 200 |
+| Composite fillings | £80 - £200 |
 | Glass Ionomer fillings | from £70 |
 
 ### Root Canal Treatment
